@@ -1,4 +1,3 @@
-(define collection "yard-shell")
 
 ;YardConsole For WeScheme Racket
 ;yard-area : number number -> number
